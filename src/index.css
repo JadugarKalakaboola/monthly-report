@@ -1,0 +1,10 @@
+:root{
+  --mint-color: #B4F8C8;
+  --yellow-color: #FBE7C6;
+  --blue-color: #A0E7E5;
+  --hot-pink: #FFAEBC;
+}
+
+body{
+  background: var(--mint-color);
+}
